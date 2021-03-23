@@ -9,3 +9,5 @@ const movies = [
 ];
 
 // Your code below
+
+movies.forEach((movie) => console.log(movie));
